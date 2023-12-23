@@ -1,0 +1,148 @@
+{
+  "tickets": [
+    {
+      "name": "Custume Festival",
+      "date": "Thu, May 11, 9:30AM",
+      "venue": "Landmark Center, Annex, LA",
+      "amount": "Free",
+      "agent": "Imperial Educational Technology",
+      "img": "1.jpg",
+      "_id": "62381920"
+    },
+    {
+      "name": "Lagos Startup Expo",
+      "date": "Mon, Aug 12, 9:30AM",
+      "venue": "Landmark Event Center, Ile-Ife, Nigeria",
+      "amount": "2000",
+      "agent": "The Baptist Ministry",
+      "img": "2.JPG",
+      "_id": "647293101"
+    },
+    {
+      "name": "Universal Business Academy(WBA) 2.0",
+      "date": "Sat, Dec 01, 8:30AM",
+      "venue": "Winners Christian Church (Annex 1), Lagos",
+      "amount": "Free",
+      "agent": "Winners Christian Community",
+      "img": "3.PNG",
+      "_id": "54263781"
+    },
+    {
+      "name": "Africa Comedy Night",
+      "date": "Mon, Aug 12, 9:30pM",
+      "venue": "Tafawa Balewa Square",
+      "amount": "10000",
+      "agent": "The God-Fathers",
+      "img": "4.JPG",
+      "_id": "81912021"
+    },
+    {
+      "name": "Co-Create Africa Tech Exhibition 2023",
+      "date": "Mon, Jun 22, 10:00AM",
+      "venue": "Eko Hotel and Suites, Lagos, Nigeria",
+      "amount": "15000",
+      "agent": "GAGE Awards",
+      "img": "5.PNG",
+      "_id": "09876543"
+    },
+    {
+      "name": "Business Strategies Update 4.0",
+      "date": "Fri, Sep 12, 10:00AM",
+      "venue": "Lagos Oriental Hotel, Lagos, Nigeria",
+      "amount": "Free",
+      "agent": "Founders Board Africa",
+      "img": "6.JPG",
+      "_id": "34565977"
+    },
+    {
+      "name": "IOT West Africa",
+      "date": "Tue, Jul 12, 9:30AM",
+      "venue": "Landmark Center, Nigeria",
+      "amount": "Free",
+      "agent": "Vertex Next",
+      "img": "7.JPG",
+      "_id": "324536784"
+    },
+    {
+      "name": "Empowering the Modern Women",
+      "date": "Mon, Aug 12, 9:30AM",
+      "venue": "University of Lagos Auditorium, UNILAG",
+      "amount": "20000",
+      "agent": "Digital Transformation Support Initiative",
+      "img": "86.JPG",
+      "_id": "5467389234"
+    },
+    {
+      "name": "Real Estate Certificate Masterclass",
+      "date": "Mon, Jun 23, 4:30PM",
+      "venue": "Four Points by Sheraton, Lagos",
+      "amount": "Free",
+      "agent": "Africa Real Estate Summit",
+      "img": "9.JPG",
+      "_id": "987654323"
+    },
+    {
+      "name": "YPIT (Young People In Tech) - Series C",
+      "date": "Sat, Aug 29, 1:00PM",
+      "venue": "Sirocco Bar and Lounge, Lagos ",
+      "amount": "Free",
+      "agent": "YPIT",
+      "img": "10.JPG",
+      "_id": "04878922"
+    },
+    {
+      "name": "Glass Futures",
+      "date": "Mon, Oct 28, 10:30AM",
+      "venue": "University of Lagos, UNILAG, Lagos",
+      "amount": "Free",
+      "agent": "Arcline Beehive Design Foundation",
+      "img": "11.JPG",
+      "_id": "34567893203"
+    },
+    {
+      "name": "Future of Payment and Fraud",
+      "date": "Thu, Aup 27, 8:30AM",
+      "venue": "Four Point by Sheraton Hotel, lagos",
+      "amount": "Free",
+      "agent": "Business Day Media",
+      "img": "12.JPG",
+      "_id": "0836292033"
+    },
+    {
+      "name": "ArtMesh: Open Mic & MeetUp for Story Tellers",
+      "date": "Fri, Mar 5, 7:00PM",
+      "venue": "American Corner Ikeja, Lagos, Nigeria",
+      "amount": "Free",
+      "agent": "ArtHut",
+      "img": "13.JPG",
+      "_id": "345363922"
+    },
+    {
+      "name": "Africa Energy Outlook 2023",
+      "date": "Wed, Apr 23, 8:00AM",
+      "venue": "Google Meet",
+      "amount": "Free",
+      "agent": "EventHive",
+      "img": "14.PNG",
+      "_id": "8174832901"
+    },
+    {
+      "name": "Software Architect Conference",
+      "date": "Mon, May 26, 10:00AM",
+      "venue": "havilah Event Center, Yaba, Lag0s, Nigeria",
+      "amount": "Free",
+      "agent": "genius magazine Technology",
+      "img": "15.JPG",
+      "_id": "3563738922"
+    },
+    {
+      "name": "Lagos Tech Fest",
+      "date": "Mon, Jan 16, 12:00PM",
+      "venue": "Sheraton Hotel and Suites",
+      "amount": "Free",
+      "agent": "Google",
+      "img": "16.png",
+      "_id": "73219001"
+    }
+  ]
+}
